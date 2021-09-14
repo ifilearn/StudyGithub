@@ -1,4 +1,5 @@
 print('add to master agaain')
+print('add to master after extended')
 print('hello world!')
 print('hellow world in branch new-feature')
 print('hellow world in branch extended')

@@ -1,4 +1,5 @@
 print('add to master again')
+print('add to master after extended')
 print('test')
 print('test in branch new-feature')
 print('test in branch extended')
